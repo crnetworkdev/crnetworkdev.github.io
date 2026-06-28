@@ -13305,6 +13305,7 @@
   "inventory": {
     "missions": true,
     "blueprint": true,
+    "girdle": true,
     "slots": {
       "max": 100,
       "default": 25,
