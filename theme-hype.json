@@ -1498,7 +1498,7 @@
       "Market": true,
       "LostWater": true
     },
-    "Water": {
+    "water": {
       "Index": "Water",
       "Name": "Garrafa de Água",
       "Type": "Consumível",
