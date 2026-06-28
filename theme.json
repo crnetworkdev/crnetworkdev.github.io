@@ -13185,10 +13185,10 @@
     86550,
     99999
   ],
-  "common": "#6fc66a",
-  "rare": "#6ac6c5",
-  "epic": "#c66a75",
-  "legendary": "#c6986a",
+  "common": "#7fd67b",
+  "rare": "#81bbe8",
+  "epic": "#9c85e6",
+  "legendary": "#ea8c55",
   "mythic": "#e97982",
   "accept": {
     "letter": "#dcffe9",
