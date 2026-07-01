@@ -11786,6 +11786,33 @@
     "missions": true,
     "blueprint": true,
     "girdle": true,
+    "buffs": {
+      "MovimentSpeed": {
+        "Icon": "bi-solid bi-workout-run",
+        "Name": "Velocidade de Movimento",
+        "Description": ""
+      },
+      "Luck": {
+        "Icon": "bi-solid bi-bluesky",
+        "Name": "Sorte",
+        "Description": ""
+      },
+      "Dexterity": {
+        "Icon": "bi-solid bi-sword-03",
+        "Name": "Destreza",
+        "Description": ""
+      },
+      "Charisma": {
+        "Icon": "bi-solid bi-pill",
+        "Name": "Carisma",
+        "Description": ""
+      },
+      "CooldownReduction": {
+        "Icon": "bi-solid bi-clock-01",
+        "Name": "Redução de Tempo de Recarga",
+        "Description": ""
+      }
+    },
     "slots": {
       "max": 100,
       "default": 25,
