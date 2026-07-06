@@ -50,6 +50,8 @@
     font-variant: normal;
     text-transform: none;
     line-height: 1;
+    unicode-bidi: isolate;
+    display: inline-block;
 
     /* Better Font Rendering =========== */
     -webkit-font-smoothing: antialiased;
