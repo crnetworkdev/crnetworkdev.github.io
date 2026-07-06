@@ -1,59 +1,44 @@
 @font-face {
     font-family: "BaseIconsStroke";
-    src: url("./BaseIconsStroke.eot");
-    src: url("./BaseIconsStroke.eot?#iefix") format("embedded-opentype"),
-        url("./BaseIconsStroke.woff2") format("woff2"),
+    src: url("./BaseIconsStroke.woff2") format("woff2"),
         url("./BaseIconsStroke.woff") format("woff"),
-        url("./BaseIconsStroke.ttf") format("truetype"),
-        url("./BaseIconsStroke.svg#BaseIconsStroke") format("svg");
+        url("./BaseIconsStroke.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
     font-display: block;
 }
 @font-face {
     font-family: "BaseIconsSolid";
-    src: url("./BaseIconsSolid.eot");
-    src: url("./BaseIconsSolid.eot?#iefix") format("embedded-opentype"),
-        url("./BaseIconsSolid.woff2") format("woff2"),
+    src: url("./BaseIconsSolid.woff2") format("woff2"),
         url("./BaseIconsSolid.woff") format("woff"),
-        url("./BaseIconsSolid.ttf") format("truetype"),
-        url("./BaseIconsSolid.svg#BaseIconsSolid") format("svg");
+        url("./BaseIconsSolid.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
     font-display: block;
 }
 @font-face {
     font-family: "BaseIconsDuotone";
-    src: url("./BaseIconsDuotone.eot");
-    src: url("./BaseIconsDuotone.eot?#iefix") format("embedded-opentype"),
-        url("./BaseIconsDuotone.woff2") format("woff2"),
+    src: url("./BaseIconsDuotone.woff2") format("woff2"),
         url("./BaseIconsDuotone.woff") format("woff"),
-        url("./BaseIconsDuotone.ttf") format("truetype"),
-        url("./BaseIconsDuotone.svg#BaseIconsDuotone") format("svg");
+        url("./BaseIconsDuotone.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
     font-display: block;
 }
 @font-face {
     font-family: "BaseIconsTwotone";
-    src: url("./BaseIconsTwotone.eot");
-    src: url("./BaseIconsTwotone.eot?#iefix") format("embedded-opentype"),
-        url("./BaseIconsTwotone.woff2") format("woff2"),
+    src: url("./BaseIconsTwotone.woff2") format("woff2"),
         url("./BaseIconsTwotone.woff") format("woff"),
-        url("./BaseIconsTwotone.ttf") format("truetype"),
-        url("./BaseIconsTwotone.svg#BaseIconsTwotone") format("svg");
+        url("./BaseIconsTwotone.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
     font-display: block;
 }
 @font-face {
     font-family: "BaseIconsBulk";
-    src: url("./BaseIconsBulk.eot");
-    src: url("./BaseIconsBulk.eot?#iefix") format("embedded-opentype"),
-        url("./BaseIconsBulk.woff2") format("woff2"),
+    src: url("./BaseIconsBulk.woff2") format("woff2"),
         url("./BaseIconsBulk.woff") format("woff"),
-        url("./BaseIconsBulk.ttf") format("truetype"),
-        url("./BaseIconsBulk.svg#BaseIconsBulk") format("svg");
+        url("./BaseIconsBulk.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
     font-display: block;
